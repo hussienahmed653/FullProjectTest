@@ -17,3 +17,4 @@ C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Infrastructure\obj\D
 C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Infrastructure\obj\Debug\net8.0\FullProjectTest.Infrastructure.pdb
 C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Infrastructure\obj\Debug\net8.0\FullProjectTest.Infrastructure.genruntimeconfig.cache
 C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Infrastructure\obj\Debug\net8.0\ref\FullProjectTest.Infrastructure.dll
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Infrastructure\obj\Debug\net8.0\FullProjectTest.Infrastructure.sourcelink.json

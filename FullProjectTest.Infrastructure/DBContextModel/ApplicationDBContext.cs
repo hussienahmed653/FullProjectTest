@@ -17,5 +17,7 @@ namespace FullProjectTest.Domain.DBContextModel
         }
 
         public DbSet<Employee> Employees { get; set; }
+        public DbSet<Region> Regions { get; set; }
+
     }
 }

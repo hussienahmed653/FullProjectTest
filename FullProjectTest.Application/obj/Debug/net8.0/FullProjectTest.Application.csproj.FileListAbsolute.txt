@@ -15,3 +15,4 @@ C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Application\obj\Debu
 C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Application\obj\Debug\net8.0\FullProjectTest.Application.pdb
 C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Application\obj\Debug\net8.0\FullProjectTest.Application.genruntimeconfig.cache
 C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Application\obj\Debug\net8.0\ref\FullProjectTest.Application.dll
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Application\obj\Debug\net8.0\FullProjectTest.Application.sourcelink.json

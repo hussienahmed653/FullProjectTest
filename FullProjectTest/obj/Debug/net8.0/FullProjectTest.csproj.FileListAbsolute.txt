@@ -177,3 +177,4 @@ C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest\bin\Debug\net8.0\Ful
 C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest\bin\Debug\net8.0\FullProjectTest.Application.pdb
 C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest\bin\Debug\net8.0\FullProjectTest.Infrastructure.pdb
 C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest\bin\Debug\net8.0\FullProjectTest.Domain.pdb
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest\obj\Debug\net8.0\FullProjectTest.sourcelink.json

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Infrastructure\\Migrations\\20250628170150_AddEmployeeTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FullProjectTest.Infrastructure\\Migrations\\20250628170150_AddEmployeeTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D4E972-2BA7-4BD1-AA7A-36BFE7FA5B84}|FullProjectTest\\FullProjectTest.csproj|c:\\users\\hussi\\source\\repos\\fullprojecttest\\fullprojecttest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0D4E972-2BA7-4BD1-AA7A-36BFE7FA5B84}|FullProjectTest\\FullProjectTest.csproj|solutionrelative:fullprojecttest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F1DC1D-6C9C-4645-B257-60D6FB4070E9}|FullProjectTest.Domain\\FullProjectTest.Domain.csproj|c:\\users\\hussi\\source\\repos\\fullprojecttest\\fullprojecttest.domain\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F1DC1D-6C9C-4645-B257-60D6FB4070E9}|FullProjectTest.Domain\\FullProjectTest.Domain.csproj|solutionrelative:fullprojecttest.domain\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D420EAFD-ECB6-4A51-89BF-F9163C3294EA}|FullProjectTest.Infrastructure\\FullProjectTest.Infrastructure.csproj|c:\\users\\hussi\\source\\repos\\fullprojecttest\\fullprojecttest.infrastructure\\emp\\employeeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D420EAFD-ECB6-4A51-89BF-F9163C3294EA}|FullProjectTest.Infrastructure\\FullProjectTest.Infrastructure.csproj|solutionrelative:fullprojecttest.infrastructure\\emp\\employeeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D4E972-2BA7-4BD1-AA7A-36BFE7FA5B84}|FullProjectTest\\FullProjectTest.csproj|c:\\users\\hussi\\source\\repos\\fullprojecttest\\fullprojecttest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D4E972-2BA7-4BD1-AA7A-36BFE7FA5B84}|FullProjectTest\\FullProjectTest.csproj|solutionrelative:fullprojecttest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D420EAFD-ECB6-4A51-89BF-F9163C3294EA}|FullProjectTest.Infrastructure\\FullProjectTest.Infrastructure.csproj|c:\\users\\hussi\\source\\repos\\fullprojecttest\\fullprojecttest.infrastructure\\dependancyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D420EAFD-ECB6-4A51-89BF-F9163C3294EA}|FullProjectTest.Infrastructure\\FullProjectTest.Infrastructure.csproj|solutionrelative:fullprojecttest.infrastructure\\dependancyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250628170150_AddEmployeeTable.cs",
+              "DocumentMoniker": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Infrastructure\\Migrations\\20250628170150_AddEmployeeTable.cs",
+              "RelativeDocumentMoniker": "FullProjectTest.Infrastructure\\Migrations\\20250628170150_AddEmployeeTable.cs",
+              "ToolTip": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Infrastructure\\Migrations\\20250628170150_AddEmployeeTable.cs*",
+              "RelativeToolTip": "FullProjectTest.Infrastructure\\Migrations\\20250628170150_AddEmployeeTable.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T17:01:50.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Infrastructure\\Emp\\EmployeeConfig.cs",
+              "RelativeDocumentMoniker": "FullProjectTest.Infrastructure\\Emp\\EmployeeConfig.cs",
+              "ToolTip": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Infrastructure\\Emp\\EmployeeConfig.cs",
+              "RelativeToolTip": "FullProjectTest.Infrastructure\\Emp\\EmployeeConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:38:13.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Domain\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "FullProjectTest.Domain\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Domain\\Models\\Employee.cs",
+              "RelativeToolTip": "FullProjectTest.Domain\\Models\\Employee.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:06:41.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest\\Program.cs",
+              "RelativeDocumentMoniker": "FullProjectTest\\Program.cs",
+              "ToolTip": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest\\Program.cs",
+              "RelativeToolTip": "FullProjectTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:28:01.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest\\appsettings.json",
+              "RelativeDocumentMoniker": "FullProjectTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest\\appsettings.json",
+              "RelativeToolTip": "FullProjectTest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T16:39:06.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependancyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Infrastructure\\DependancyInjection.cs",
+              "RelativeDocumentMoniker": "FullProjectTest.Infrastructure\\DependancyInjection.cs",
+              "ToolTip": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Infrastructure\\DependancyInjection.cs",
+              "RelativeToolTip": "FullProjectTest.Infrastructure\\DependancyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:24:45.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Domain\bin\Debug\net8.0\FullProjectTest.Domain.deps.json
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Domain\bin\Debug\net8.0\FullProjectTest.Domain.runtimeconfig.json
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Domain\bin\Debug\net8.0\FullProjectTest.Domain.dll
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Domain\bin\Debug\net8.0\FullProjectTest.Domain.pdb
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Domain\obj\Debug\net8.0\FullProjectTest.Domain.csproj.AssemblyReference.cache
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Domain\obj\Debug\net8.0\FullProjectTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Domain\obj\Debug\net8.0\FullProjectTest.Domain.AssemblyInfoInputs.cache
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Domain\obj\Debug\net8.0\FullProjectTest.Domain.AssemblyInfo.cs
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Domain\obj\Debug\net8.0\FullProjectTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Domain\obj\Debug\net8.0\FullProjectTest.Domain.dll
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Domain\obj\Debug\net8.0\refint\FullProjectTest.Domain.dll
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Domain\obj\Debug\net8.0\FullProjectTest.Domain.pdb
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Domain\obj\Debug\net8.0\FullProjectTest.Domain.genruntimeconfig.cache
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Domain\obj\Debug\net8.0\ref\FullProjectTest.Domain.dll

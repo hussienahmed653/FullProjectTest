@@ -1,0 +1,17 @@
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Application\bin\Debug\net8.0\FullProjectTest.Application.deps.json
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Application\bin\Debug\net8.0\FullProjectTest.Application.runtimeconfig.json
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Application\bin\Debug\net8.0\FullProjectTest.Application.dll
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Application\bin\Debug\net8.0\FullProjectTest.Application.pdb
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Application\bin\Debug\net8.0\FullProjectTest.Domain.dll
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Application\bin\Debug\net8.0\FullProjectTest.Domain.pdb
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Application\obj\Debug\net8.0\FullProjectTest.Application.csproj.AssemblyReference.cache
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Application\obj\Debug\net8.0\FullProjectTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Application\obj\Debug\net8.0\FullProjectTest.Application.AssemblyInfoInputs.cache
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Application\obj\Debug\net8.0\FullProjectTest.Application.AssemblyInfo.cs
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Application\obj\Debug\net8.0\FullProjectTest.Application.csproj.CoreCompileInputs.cache
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Application\obj\Debug\net8.0\FullProj.0D9C5B9F.Up2Date
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Application\obj\Debug\net8.0\FullProjectTest.Application.dll
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Application\obj\Debug\net8.0\refint\FullProjectTest.Application.dll
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Application\obj\Debug\net8.0\FullProjectTest.Application.pdb
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Application\obj\Debug\net8.0\FullProjectTest.Application.genruntimeconfig.cache
+C:\Users\hussi\source\repos\FullProjectTest\FullProjectTest.Application\obj\Debug\net8.0\ref\FullProjectTest.Application.dll

@@ -12,5 +12,7 @@ namespace FullProjectTest.Domain.Models
         public string TerritoryDescription { get; set; }
         public int RegionId { get; set; }
         public Region Region { get; set; }
+
+        public ICollection<Employee> Employee { get; set; }
     }
 }

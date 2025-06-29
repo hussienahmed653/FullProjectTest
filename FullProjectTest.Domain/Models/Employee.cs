@@ -28,5 +28,7 @@ namespace FullProjectTest.Domain.Models
         public Employee? Manager { get; set; }
         public string PhotoPath { get; set; }
         public ICollection<Employee> Subordinates { get; set; } = new List<Employee>();
+
+        public ICollection<Territories> Territories { get; set; }
     }
 }

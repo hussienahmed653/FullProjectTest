@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D420EAFD-ECB6-4A51-89BF-F9163C3294EA}|FullProjectTest.Infrastructure\\FullProjectTest.Infrastructure.csproj|c:\\users\\hussi\\source\\repos\\fullprojecttest\\fullprojecttest.infrastructure\\prod\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D420EAFD-ECB6-4A51-89BF-F9163C3294EA}|FullProjectTest.Infrastructure\\FullProjectTest.Infrastructure.csproj|solutionrelative:fullprojecttest.infrastructure\\prod\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Infrastructure\\Migrations\\20250629163927_AddCustomerTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FullProjectTest.Infrastructure\\Migrations\\20250629163927_AddCustomerTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10F1DC1D-6C9C-4645-B257-60D6FB4070E9}|FullProjectTest.Domain\\FullProjectTest.Domain.csproj|c:\\users\\hussi\\source\\repos\\fullprojecttest\\fullprojecttest.domain\\models\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10F1DC1D-6C9C-4645-B257-60D6FB4070E9}|FullProjectTest.Domain\\FullProjectTest.Domain.csproj|solutionrelative:fullprojecttest.domain\\models\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10F1DC1D-6C9C-4645-B257-60D6FB4070E9}|FullProjectTest.Domain\\FullProjectTest.Domain.csproj|c:\\users\\hussi\\source\\repos\\fullprojecttest\\fullprojecttest.domain\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F1DC1D-6C9C-4645-B257-60D6FB4070E9}|FullProjectTest.Domain\\FullProjectTest.Domain.csproj|solutionrelative:fullprojecttest.domain\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F1DC1D-6C9C-4645-B257-60D6FB4070E9}|FullProjectTest.Domain\\FullProjectTest.Domain.csproj|c:\\users\\hussi\\source\\repos\\fullprojecttest\\fullprojecttest.domain\\models\\customerdemographics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F1DC1D-6C9C-4645-B257-60D6FB4070E9}|FullProjectTest.Domain\\FullProjectTest.Domain.csproj|solutionrelative:fullprojecttest.domain\\models\\customerdemographics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D420EAFD-ECB6-4A51-89BF-F9163C3294EA}|FullProjectTest.Infrastructure\\FullProjectTest.Infrastructure.csproj|c:\\users\\hussi\\source\\repos\\fullprojecttest\\fullprojecttest.infrastructure\\customerdemo\\customerdemoconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D420EAFD-ECB6-4A51-89BF-F9163C3294EA}|FullProjectTest.Infrastructure\\FullProjectTest.Infrastructure.csproj|solutionrelative:fullprojecttest.infrastructure\\customerdemo\\customerdemoconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D420EAFD-ECB6-4A51-89BF-F9163C3294EA}|FullProjectTest.Infrastructure\\FullProjectTest.Infrastructure.csproj|c:\\users\\hussi\\source\\repos\\fullprojecttest\\fullprojecttest.infrastructure\\cust\\customerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D420EAFD-ECB6-4A51-89BF-F9163C3294EA}|FullProjectTest.Infrastructure\\FullProjectTest.Infrastructure.csproj|solutionrelative:fullprojecttest.infrastructure\\cust\\customerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D420EAFD-ECB6-4A51-89BF-F9163C3294EA}|FullProjectTest.Infrastructure\\FullProjectTest.Infrastructure.csproj|c:\\users\\hussi\\source\\repos\\fullprojecttest\\fullprojecttest.infrastructure\\dbcontextmodel\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D420EAFD-ECB6-4A51-89BF-F9163C3294EA}|FullProjectTest.Infrastructure\\FullProjectTest.Infrastructure.csproj|solutionrelative:fullprojecttest.infrastructure\\dbcontextmodel\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10F1DC1D-6C9C-4645-B257-60D6FB4070E9}|FullProjectTest.Domain\\FullProjectTest.Domain.csproj|c:\\users\\hussi\\source\\repos\\fullprojecttest\\fullprojecttest.domain\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10F1DC1D-6C9C-4645-B257-60D6FB4070E9}|FullProjectTest.Domain\\FullProjectTest.Domain.csproj|solutionrelative:fullprojecttest.domain\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10F1DC1D-6C9C-4645-B257-60D6FB4070E9}|FullProjectTest.Domain\\FullProjectTest.Domain.csproj|c:\\users\\hussi\\source\\repos\\fullprojecttest\\fullprojecttest.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10F1DC1D-6C9C-4645-B257-60D6FB4070E9}|FullProjectTest.Domain\\FullProjectTest.Domain.csproj|solutionrelative:fullprojecttest.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10F1DC1D-6C9C-4645-B257-60D6FB4070E9}|FullProjectTest.Domain\\FullProjectTest.Domain.csproj|c:\\users\\hussi\\source\\repos\\fullprojecttest\\fullprojecttest.domain\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10F1DC1D-6C9C-4645-B257-60D6FB4070E9}|FullProjectTest.Domain\\FullProjectTest.Domain.csproj|solutionrelative:fullprojecttest.domain\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10F1DC1D-6C9C-4645-B257-60D6FB4070E9}|FullProjectTest.Domain\\FullProjectTest.Domain.csproj|c:\\users\\hussi\\source\\repos\\fullprojecttest\\fullprojecttest.domain\\models\\territories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10F1DC1D-6C9C-4645-B257-60D6FB4070E9}|FullProjectTest.Domain\\FullProjectTest.Domain.csproj|solutionrelative:fullprojecttest.domain\\models\\territories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,92 +39,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductConfig.cs",
-              "DocumentMoniker": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Infrastructure\\Prod\\ProductConfig.cs",
-              "RelativeDocumentMoniker": "FullProjectTest.Infrastructure\\Prod\\ProductConfig.cs",
-              "ToolTip": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Infrastructure\\Prod\\ProductConfig.cs*",
-              "RelativeToolTip": "FullProjectTest.Infrastructure\\Prod\\ProductConfig.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Title": "20250629163927_AddCustomerTable.cs",
+              "DocumentMoniker": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Infrastructure\\Migrations\\20250629163927_AddCustomerTable.cs",
+              "RelativeDocumentMoniker": "FullProjectTest.Infrastructure\\Migrations\\20250629163927_AddCustomerTable.cs",
+              "ToolTip": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Infrastructure\\Migrations\\20250629163927_AddCustomerTable.cs*",
+              "RelativeToolTip": "FullProjectTest.Infrastructure\\Migrations\\20250629163927_AddCustomerTable.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAEcAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T16:00:30.807Z",
+              "WhenOpened": "2025-06-29T16:39:27.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Domain\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "FullProjectTest.Domain\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Domain\\Models\\Product.cs",
-              "RelativeToolTip": "FullProjectTest.Domain\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Title": "CustomerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Infrastructure\\Cust\\CustomerConfig.cs",
+              "RelativeDocumentMoniker": "FullProjectTest.Infrastructure\\Cust\\CustomerConfig.cs",
+              "ToolTip": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Infrastructure\\Cust\\CustomerConfig.cs",
+              "RelativeToolTip": "FullProjectTest.Infrastructure\\Cust\\CustomerConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T15:47:04.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Suppliers.cs",
-              "DocumentMoniker": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Domain\\Models\\Suppliers.cs",
-              "RelativeDocumentMoniker": "FullProjectTest.Domain\\Models\\Suppliers.cs",
-              "ToolTip": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Domain\\Models\\Suppliers.cs",
-              "RelativeToolTip": "FullProjectTest.Domain\\Models\\Suppliers.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T15:23:06.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Categories.cs",
-              "DocumentMoniker": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Domain\\Models\\Categories.cs",
-              "RelativeDocumentMoniker": "FullProjectTest.Domain\\Models\\Categories.cs",
-              "ToolTip": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Domain\\Models\\Categories.cs",
-              "RelativeToolTip": "FullProjectTest.Domain\\Models\\Categories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T15:19:30.03Z",
+              "WhenOpened": "2025-06-29T16:38:28.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Domain\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "FullProjectTest.Domain\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Domain\\Models\\Employee.cs",
-              "RelativeToolTip": "FullProjectTest.Domain\\Models\\Employee.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBEAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T14:25:34.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Territories.cs",
-              "DocumentMoniker": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Domain\\Models\\Territories.cs",
-              "RelativeDocumentMoniker": "FullProjectTest.Domain\\Models\\Territories.cs",
-              "ToolTip": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Domain\\Models\\Territories.cs",
-              "RelativeToolTip": "FullProjectTest.Domain\\Models\\Territories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T14:19:23.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ApplicationDBContext.cs",
               "DocumentMoniker": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Infrastructure\\DBContextModel\\ApplicationDBContext.cs",
               "RelativeDocumentMoniker": "FullProjectTest.Infrastructure\\DBContextModel\\ApplicationDBContext.cs",
               "ToolTip": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Infrastructure\\DBContextModel\\ApplicationDBContext.cs",
               "RelativeToolTip": "FullProjectTest.Infrastructure\\DBContextModel\\ApplicationDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T18:53:57.159Z",
+              "WhenOpened": "2025-06-29T16:37:15.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerDemoConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Infrastructure\\CustomerDemo\\CustomerDemoConfig.cs",
+              "RelativeDocumentMoniker": "FullProjectTest.Infrastructure\\CustomerDemo\\CustomerDemoConfig.cs",
+              "ToolTip": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Infrastructure\\CustomerDemo\\CustomerDemoConfig.cs",
+              "RelativeToolTip": "FullProjectTest.Infrastructure\\CustomerDemo\\CustomerDemoConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:34:42.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerDemographics.cs",
+              "DocumentMoniker": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Domain\\Models\\CustomerDemographics.cs",
+              "RelativeDocumentMoniker": "FullProjectTest.Domain\\Models\\CustomerDemographics.cs",
+              "ToolTip": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Domain\\Models\\CustomerDemographics.cs",
+              "RelativeToolTip": "FullProjectTest.Domain\\Models\\CustomerDemographics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:32:55.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Domain\\Models\\Customers.cs",
+              "RelativeDocumentMoniker": "FullProjectTest.Domain\\Models\\Customers.cs",
+              "ToolTip": "C:\\Users\\hussi\\source\\repos\\FullProjectTest\\FullProjectTest.Domain\\Models\\Customers.cs",
+              "RelativeToolTip": "FullProjectTest.Domain\\Models\\Customers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:20:58.322Z",
               "EditorCaption": ""
             }
           ]

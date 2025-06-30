@@ -4,6 +4,7 @@ using FullProjectTest.Domain.DBContextModel;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FullProjectTest.Infrastructure.Migrations
 {
     [DbContext(typeof(ApplicationDBContext))]
-    partial class ApplicationDBContextModelSnapshot : ModelSnapshot
+    [Migration("20250630165505_AddOrderTable")]
+    partial class AddOrderTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -224,30 +227,6 @@ namespace FullProjectTest.Infrastructure.Migrations
                     b.HasIndex("ReportsTo");
 
                     b.ToTable("Employees");
-                });
-
-            modelBuilder.Entity("FullProjectTest.Domain.Models.OrderDetailes", b =>
-                {
-                    b.Property<int>("OrderId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("ProductId")
-                        .HasColumnType("int");
-
-                    b.Property<float>("Discount")
-                        .HasColumnType("real");
-
-                    b.Property<byte>("Quantity")
-                        .HasColumnType("tinyint");
-
-                    b.Property<decimal>("UnitPrice")
-                        .HasColumnType("decimal(18,2)");
-
-                    b.HasKey("OrderId", "ProductId");
-
-                    b.HasIndex("ProductId");
-
-                    b.ToTable("OrderDetailes");
                 });
 
             modelBuilder.Entity("FullProjectTest.Domain.Models.Orders", b =>
@@ -529,25 +508,6 @@ namespace FullProjectTest.Infrastructure.Migrations
                     b.Navigation("Manager");
                 });
 
-            modelBuilder.Entity("FullProjectTest.Domain.Models.OrderDetailes", b =>
-                {
-                    b.HasOne("FullProjectTest.Domain.Models.Orders", "Order")
-                        .WithMany("OrderDetails")
-                        .HasForeignKey("OrderId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("FullProjectTest.Domain.Models.Product", "Product")
-                        .WithMany("OrderDetailes")
-                        .HasForeignKey("ProductId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Order");
-
-                    b.Navigation("Product");
-                });
-
             modelBuilder.Entity("FullProjectTest.Domain.Models.Orders", b =>
                 {
                     b.HasOne("FullProjectTest.Domain.Models.Customers", "Customer")
@@ -618,16 +578,6 @@ namespace FullProjectTest.Infrastructure.Migrations
                     b.Navigation("Orders");
 
                     b.Navigation("Subordinates");
-                });
-
-            modelBuilder.Entity("FullProjectTest.Domain.Models.Orders", b =>
-                {
-                    b.Navigation("OrderDetails");
-                });
-
-            modelBuilder.Entity("FullProjectTest.Domain.Models.Product", b =>
-                {
-                    b.Navigation("OrderDetailes");
                 });
 
             modelBuilder.Entity("FullProjectTest.Domain.Models.Region", b =>

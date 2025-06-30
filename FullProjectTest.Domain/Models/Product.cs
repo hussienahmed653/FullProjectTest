@@ -17,5 +17,6 @@ namespace FullProjectTest.Domain.Models
         public byte? UnitsOnOrder { get; set; }
         public byte? ReorderLevel { get; set; }
         public double Discontinued { get; set; }
+        public ICollection<OrderDetailes> OrderDetailes { get; set; } = new List<OrderDetailes>();
     }
 }

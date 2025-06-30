@@ -14,5 +14,6 @@
         public string Phone { get; set; }
         public string Fax { get; set; }
         public ICollection<CustomerDemographics> customerDemographics { get; set; } = new List<CustomerDemographics>();
+        public ICollection<Orders> Orders { get; set; } = new List<Orders>();
     }
 }
